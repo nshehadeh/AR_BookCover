@@ -8,3 +8,5 @@ The front cover displays the title, author, and a fun 3D scene displaying some a
 
 ## Back Cover
 The back cover displays basic information about the book. If you press the red AR button, it switches to a short review written about the book by me (you might have some trouble with this with a mac camera because of loss of image target tracking). 
+
+![](BackCover_AdobeCreativeCloudExpress.gif)
