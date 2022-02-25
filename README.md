@@ -3,6 +3,7 @@ This project is a Unity project using Vuforia's engine to display a front and ba
 
 ## Front Cover
 The front cover displays the title, author, and a fun 3D scene displaying some aspects from the book, including Pickles the fire cat. 
+
 ![](FrontCover_AdobeCreativeCloudExpress.gif)
 
 ## Back Cover
