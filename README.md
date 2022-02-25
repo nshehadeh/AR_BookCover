@@ -7,7 +7,7 @@ The front cover displays the title, author, and a fun 3D scene displaying some a
 ![](FrontCover_AdobeCreativeCloudExpress.gif)
 
 ## Back Cover
-The back cover displays basic information about the book. If you press the red AR button, it switches to a short review written about the book by me (you might have some trouble with this with a mac camera because of loss of image target tracking). 
+The back cover displays basic information about the book. If you press the red AR button, it switches to a short review written about the book by me (you might have some trouble with this with a mac camera because of loss of image target tracking). This works using Vuforia's virtual button game object and a simple C# script that switches which game object between the information and the review is active every time you hit the button.
 
 ![](BackCover_AdobeCreativeCloudExpress.gif)
 
